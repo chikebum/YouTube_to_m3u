@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", EBC
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762242394/ei/-loJaePHI9SZ2_gP5s-5gQY/ip/64.236.193.26/id/V1p33hqPrUk.60/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SfY55ZOgy132ilMuZksMMMziIap0L0FlK_KsPnzdR082amFHlL-IffJtoR2NRBUh_KwOABimrL/spc/6b0G_ACAYpUZ4UbER-2rKJV35OG31XPIrcGMDabVP5yzKOgUZ_9ONV_g7-8D0ZwWdmM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALMC6O5J1NYB1F_GbXdaNUwBRdLGE-8nsKT1px7sw3AEAiAEiCCpuuDK94l7ya_1zQoDiNOKfxKL_f_GlT1bKvvCHA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", EBC News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
