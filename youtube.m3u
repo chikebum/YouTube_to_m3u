@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", CTI
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766611514/ei/2QVMafTdPPqU2_gPypP1yAg/ip/135.232.176.178/id/vr3XyVCR4T0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DDLaBBSQ0Mzu7Y0OFRwVtv3jsFXOgpbtaAo066NC42hL21M5RJLR5UnLb4j0W5ndriL7Lr6g7L/spc/wH4Qqw3YyH7-INMv1Mfi6ilSPTyaZrVZ-OyEsRaYqOioy62ncvyQnWm-OoEd95-iGGY/vprv/1/go/1/ns/TGop8Rd-WGx8H5_uB3jCN4wR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/O2r6DT7XfoSAphpEAu/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgI3ueTwbI_H6FUgppWoTxPkST9gXCtgdcBSQ8DqmpCG4CIFWeDTHw2jHQO2BxYocAZecBJ4g2Gs9AxggVknD6AKzf/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Phoenix HD
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
