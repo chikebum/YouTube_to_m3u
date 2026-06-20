@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", TVBS 55
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781994096/ei/EL42aomsBPq1ir4Pm5KQkAU/ip/40.81.42.177/id/2mCSYvcfhtc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/ARmQxEVRePNRlH3zF98q0Krdp28oXBVbjfxRDksqh7KIFiO8Kc2OV4W6cQuXRdqjFm9N88nBqcnPvk3O/spc/SQ-ummoP_ODYKFioMFUpIq3aDtsBC4KHFD5FiZn9KUAI2ngvCoGjfc8XWuAbabrZPwUb6g/vprv/1/go/1/ns/8OEuIPhAsDMeg_p5Yfp6ZaQW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/UMmQE3tVUKupJK7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgEcSYh281Zpw7nt2RK650KvCx_3bf_VgLwAhubmnNoCACIQDvovpvOUHAaqrI1QH16ieYMC9cY_uFWwENBeNXXhZSvw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", TVBS 56
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
